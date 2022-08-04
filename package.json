@@ -1,0 +1,23 @@
+{
+  "name": "gmailerapi",
+  "version": "1.0.0",
+  "description": "Gmail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Victor Jefferson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "base64topdf": "^1.1.8",
+    "dotenv": "^16.0.1",
+    "filereader": "^0.10.3",
+    "google-auth-library": "^8.1.0",
+    "googleapis": "^105.0.0",
+    "node-cron": "^3.0.1",
+    "qs": "^6.11.0",
+    "shelljs": "^0.8.5",
+    "util": "^0.12.4"
+  }
+}
